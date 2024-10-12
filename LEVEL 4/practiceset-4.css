@@ -1,0 +1,5 @@
+*{margin: 0; padding: 0;}
+.box{height: 200px; width: 200px; padding: 5px; margin: 5px; border: 5px dotted red; background-color: blue;}
+button{height: 70px; width: 70px; padding: 10px 15px; margin: 100px; border: 5px dotted red; border-radius: 50px;}
+#box1{box-sizing: content-box;}
+#box2{box-sizing: border-box;}

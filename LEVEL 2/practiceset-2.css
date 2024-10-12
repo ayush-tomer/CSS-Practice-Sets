@@ -1,0 +1,4 @@
+*{margin: 0; padding: 0;}
+#bar{background-color: aquamarine; color: rgba(103, 18, 18, 1);}
+main{height: 500px; background-color: blanchedalmond;}
+#product{height: 400px; width: 200px; background: green url(./IMAGES/jeans.png) no-repeat scroll center; background-size: contain;}
